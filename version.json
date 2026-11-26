@@ -1,13 +1,12 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.9.1",
   "date": "2026-11-26",
   "notes": [
-    "修正轨迹判定：重派后已重新上架的包裹不再标「重派中」",
-    "内部轨迹 type: Undeliverable 现在识别为「无法投递」",
-    "包含 1.0.8 起累积改动：轨迹导出 Excel、派送异常细分、在线增量更新"
+    "修复：增量更新后程序关闭但不自动重启（安装路径含中文时脚本乱码）",
+    "所有失败分支现在都会把程序重新打开，不会只剩一个关掉的窗口"
   ],
-  "downloadUrl": "https://github.com/adreamakeR/epss-update/releases/download/v1.0.9/epss-workbench-1.0.9.zip",
-  "patchUrl": "https://github.com/adreamakeR/epss-update/releases/download/v1.0.9/epss-workbench-patch-1.0.9.zip",
+  "downloadUrl": "https://github.com/adreamakeR/epss-update/releases/download/v1.0.9.1/epss-workbench-1.0.9.1.zip",
+  "patchUrl": "https://github.com/adreamakeR/epss-update/releases/download/v1.0.9.1/epss-workbench-patch-1.0.9.1.zip",
   "patchMinVersion": "1.0.7.1",
   "docUrl": "https://acnjh1thgeif.larkenterprise.com/docx/HIF7dL86To5nwcxK9IZcOMuHnvb"
 }
