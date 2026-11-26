@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.8.1",
   "date": "2026-11-26",
   "notes": [
     "轨迹判定新增：派送异常、收件人拒收、无法投递（开放/禁行区域）、集包失败拦截件、已取消",
@@ -8,8 +8,8 @@
     "折叠行右侧展示判定状态；修复悬浮球快速查询报错",
     "新增启动检查更新：增量更新（约 240KB）一键下载并自动重启，失败自动回滚"
   ],
-  "downloadUrl": "https://github.com/adreamakeR/epss-update/releases/download/v1.0.8/epss-workbench-1.0.8.zip",
-  "patchUrl": "https://github.com/adreamakeR/epss-update/releases/download/v1.0.8/epss-workbench-patch-1.0.8.zip",
+  "downloadUrl": "https://github.com/adreamakeR/epss-update/releases/download/v1.0.8.1/epss-workbench-1.0.8.1.zip",
+  "patchUrl": "https://github.com/adreamakeR/epss-update/releases/download/v1.0.8.1/epss-workbench-patch-1.0.8.1.zip",
   "patchMinVersion": "1.0.7.1",
   "docUrl": "https://acnjh1thgeif.larkenterprise.com/docx/HIF7dL86To5nwcxK9IZcOMuHnvb"
 }
