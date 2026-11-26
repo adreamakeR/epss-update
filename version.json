@@ -6,8 +6,10 @@
     "修正重派流程中「退回分拣中心」被误判为退回件",
     "轨迹查询支持导出 Excel（客户信息、内外部最后一条轨迹与判定状态）",
     "折叠行右侧展示判定状态；修复悬浮球快速查询报错",
-    "新增启动检查更新：发现新版本可一键下载安装包"
+    "新增启动检查更新：增量更新（约 240KB）一键下载并自动重启，失败自动回滚"
   ],
   "downloadUrl": "https://github.com/adreamakeR/epss-update/releases/download/v1.0.8/epss-workbench-1.0.8.zip",
+  "patchUrl": "https://github.com/adreamakeR/epss-update/releases/download/v1.0.8/epss-workbench-patch-1.0.8.zip",
+  "patchMinVersion": "1.0.7.1",
   "docUrl": "https://acnjh1thgeif.larkenterprise.com/docx/HIF7dL86To5nwcxK9IZcOMuHnvb"
 }
