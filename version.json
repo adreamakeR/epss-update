@@ -1,12 +1,12 @@
 {
-  "version": "1.0.9.1",
-  "date": "2026-11-26",
+  "version": "1.0.10",
+  "date": "2026-11-27",
   "notes": [
-    "修复：增量更新后程序关闭但不自动重启（安装路径含中文时脚本乱码）",
-    "所有失败分支现在都会把程序重新打开，不会只剩一个关掉的窗口"
+    "轨迹查询在半屏下保持内部/对外左右并排，不再堆成上下两段",
+    "顶栏新增「置顶」按钮：窗口可固定在最上层，状态自动记住"
   ],
-  "downloadUrl": "https://github.com/adreamakeR/epss-update/releases/download/v1.0.9.1/epss-workbench-1.0.9.1.zip",
-  "patchUrl": "https://github.com/adreamakeR/epss-update/releases/download/v1.0.9.1/epss-workbench-patch-1.0.9.1.zip",
+  "downloadUrl": "https://github.com/adreamakeR/epss-update/releases/download/v1.0.10/epss-workbench-1.0.10.zip",
+  "patchUrl": "https://github.com/adreamakeR/epss-update/releases/download/v1.0.10/epss-workbench-patch-1.0.10.zip",
   "patchMinVersion": "1.0.7.1",
   "docUrl": "https://acnjh1thgeif.larkenterprise.com/docx/HIF7dL86To5nwcxK9IZcOMuHnvb"
 }
